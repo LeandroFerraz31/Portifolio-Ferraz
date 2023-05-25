@@ -24,6 +24,9 @@ nav {
     padding: 25px;
 
 }
+.menu{
+    margin-left: auto;
+}
 
 .portifolio {
     color: #ffffff;
@@ -529,7 +532,7 @@ footer p {
         margin-bottom: 10px;
     }
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 320px ) {
     /* Estilos para dispositivos móveis com largura de até 480px */
 
 
@@ -545,7 +548,7 @@ footer p {
         
     }
     .menu{
-    
+    display: block;
         margin-left: 60px;
     }
     
