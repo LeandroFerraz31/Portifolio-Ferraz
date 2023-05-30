@@ -11,7 +11,7 @@
     width: 100%;
     background-image: url(./img/background-1.png);
     background-size: cover;
-    background-position: flex;
+    background-position:flex ;
     background-color: #191919;
 }
 
@@ -99,10 +99,11 @@ section div p {
     font-size: 24px;
     margin-top: 15px;
     margin-bottom: 60px;
+    
 }
 
-section div button {
-    color: white;
+section div button  {
+    
     background: #f9004d;
     height: 50px;
     width: 180px;
@@ -110,12 +111,18 @@ section div button {
     border: none;
     border-radius: 26px;
     cursor: pointer;
+    
 }
 
 section div button:hover {
     background-color: black;
     border: 3px solid #f9004d;
     transition: 0.5s;
+}
+
+section button .whats{
+    color: white;
+    text-decoration: none;
 }
 
 .projeto {
@@ -240,18 +247,18 @@ footer p {
     
 
     .nome {
-        left: 3%;
+        left: 0%;
         font-size: 30px;
     }
 
     .portifolio {
-        font-size: 35px;
+        font-size: 40px;
         
         
     }
     .menu{
     
-        margin-left: 200px;
+        margin-left: 199px;
     }
     
     li {
@@ -348,13 +355,13 @@ footer p {
     }
 
     .portifolio {
-        font-size: 35px;
+        font-size: 30px;
         
         
     }
     .menu{
     
-        margin-left: 230px;
+        margin-left: 150px;
     }
     
     li {
@@ -457,7 +464,7 @@ footer p {
     }
 
     .portifolio {
-        font-size: 35px;
+        font-size: 30px;
         margin-right: auto;
         
         
@@ -538,11 +545,11 @@ footer p {
 
     .nome {
         left: 2%;
-        font-size: 25px;
+        font-size: 20px;
     }
 
     .portifolio {
-        font-size: 35px;
+        font-size: 30px;
         margin-right: auto;
         
         
