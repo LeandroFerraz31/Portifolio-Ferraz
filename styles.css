@@ -24,7 +24,7 @@ nav {
     padding: 25px;
 
 }
-.menu{
+#menu{
     margin-left: auto;
 }
 
@@ -125,13 +125,13 @@ section button .whats{
     text-decoration: none;
 }
 
-.projeto {
+#projeto {
     background-color: #191919;
     padding-top: 50px;
     padding-bottom: 100px;
 }
 
-.projeto h2{
+#projeto h2{
     color: white;
     font-size: 75px;
     text-align: center;
@@ -256,7 +256,7 @@ footer p {
         
         
     }
-    .menu{
+    #menu{
     
         margin-left: 199px;
     }
@@ -304,7 +304,7 @@ footer p {
         font-size: 16px;
     }
 
-    .projeto h2 {
+    #projeto h2 {
         font-size: 50px;
     }
 
@@ -359,7 +359,7 @@ footer p {
         
         
     }
-    .menu{
+    #menu{
     
         margin-left: 150px;
     }
@@ -402,7 +402,7 @@ footer p {
         font-size: 14px;
     }
 
-    .projeto h2 {
+    #projeto h2 {
         font-size: 40px;
     }
 
@@ -469,7 +469,7 @@ footer p {
         
         
     }
-    .menu{
+    #menu{
     
         margin-left: 100px;
     }
@@ -514,7 +514,7 @@ footer p {
         font-size: 14px;
     }
 
-    .projeto h2 {
+    #projeto h2 {
         font-size: 40px;
     }
 
@@ -554,7 +554,7 @@ footer p {
         
         
     }
-    .menu{
+    #menu{
     display: block;
         margin-left: 60px;
     }
@@ -597,7 +597,7 @@ footer p {
         font-size: 14px;
     }
 
-    .projeto h2 {
+    #projeto h2 {
         font-size: 40px;
     }
 
