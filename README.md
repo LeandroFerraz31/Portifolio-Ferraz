@@ -2,7 +2,7 @@
 
 # Meu Portfólio
 
-Este é o meu portfólio pessoal, onde apresento um pouco sobre mim, meus projetos e como entrar em contato. O objetivo é mostrar minhas habilidades como desenvolvedor Front End e fornecer um meio de comunicação fácil e direto.
+Este é o meu primeiro portfólio pessoal, onde apresento um pouco sobre mim, meus projetos e como entrar em contato. O objetivo é mostrar minhas habilidades como desenvolvedor Front End e fornecer um meio de comunicação fácil e direto.
 
 ## Tabela de Conteúdos
 - [Demonstração](#demonstração)
